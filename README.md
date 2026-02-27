@@ -18,7 +18,7 @@ A console-based Java application that allows users to:
 - Loops & conditionals
 - Exception handling
 - Input validation
-- 
+
 ## How to Run
 1. Open the project in IntelliJ IDEA
 2. Run `Main.java`
